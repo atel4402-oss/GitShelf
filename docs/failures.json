@@ -1,10 +1,3 @@
 {
-  "failures": [
-    {
-      "filename": "kenta_kil_psychopathy.pdf",
-      "book_id": "kenta-kil-psychopathy",
-      "error": "No API token provided. Pass token= or set MINERU_TOKEN.",
-      "failed_at": "2026-11-07T16:28:22Z"
-    }
-  ]
+  "failures": []
 }
