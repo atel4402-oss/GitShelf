@@ -4,7 +4,13 @@
       "filename": "Кент_А_Кил_Психопаты_Достоверный_рассказ_о людях_без жалости_без совести.pdf",
       "book_id": "кент-а-кил-психопаты-достоверный-рассказ-о-людях-без-жалости-без-совести",
       "error": "No API token provided. Pass token= or set MINERU_TOKEN.",
-      "failed_at": "2026-11-07T16:07:19Z"
+      "failed_at": "2026-11-07T16:20:07Z"
+    },
+    {
+      "filename": "kenta_kil_psychopathy.pdf",
+      "book_id": "kenta-kil-psychopathy",
+      "error": "No API token provided. Pass token= or set MINERU_TOKEN.",
+      "failed_at": "2026-11-07T16:20:07Z"
     }
   ]
 }
