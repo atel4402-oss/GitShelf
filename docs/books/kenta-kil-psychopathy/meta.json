@@ -1,6 +1,8 @@
 {
   "id": "kenta-kil-psychopathy",
   "type": "book",
+  "title": "Психопаты",
+  "author": "Kent A. Kil",
   "source": "kenta_kil_psychopathy.pdf",
   "source_format": "markdown-derived",
   "pdf_md5": "15ba62c2588a29d9351f00ce99ff349b",
